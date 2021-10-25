@@ -1,0 +1,76 @@
+body {
+    background: linear-gradient(70deg,
+        #5aace0 0%,
+        #727ce6 20%,
+        #806de9 60%,
+        #a94aee);
+    height: 100vh;
+  }
+
+  .row {
+    margin: 25px;
+    border-radius: 5px;
+  }
+
+  .row>div {
+    font-size: 12px;
+    text-align: left;
+  }
+
+  input {
+    width: 100%;
+    height: 60px;
+  }
+
+  button {
+    background: linear-gradient(90deg, #5aace0, #727ce6, #806de9, #a94aee);
+    border-radius: 100px;
+  }
+
+  .btn {
+    border-radius: 25px;
+  }
+
+  .tela {
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 1px 1px 10px black;
+  }
+
+  .input-group-text {
+    border: none;
+    border-bottom: 2px solid gray;
+    border-radius: 0;
+    background: #fff;
+  }
+
+  .form-control {
+    border: none;
+    border-bottom: 2px solid gray;
+    border-radius: 0;
+  }
+
+  h2 {
+    font-weight: 700;
+    margin: 40px 25px;
+  }
+
+  .hover:hover {
+    cursor: pointer;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .footer {
+    height: 250px;
+  }
+
+  .footer a {
+    color: #000;
+  }
+
+  .footer div {
+    margin-bottom: 10px;
+  }
